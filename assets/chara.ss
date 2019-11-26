@@ -8,6 +8,11 @@
     },
 
     "animations" : {
+	"stand": {
+            "frames": [1],
+            "next": "stand",
+            "frequency": 5
+        },
         "walk": {
             "frames": [1,0,2],
             "next": "walk",
