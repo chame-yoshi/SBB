@@ -20,7 +20,7 @@
         },
 	"leftwalk": {
             "frames": [6,7],
-            "next": "walk",
+            "next": "leftwalk",
             "frequency": 1
         },
         "jump": {
