@@ -11,22 +11,22 @@
 	"stand": {
             "frames": [1],
             "next": "stand",
-            "frequency": 5
+            "frequency": 1
         },
         "walk": {
             "frames": [1,0,2],
             "next": "walk",
-            "frequency": 5
+            "frequency": 1
         },
         "jump": {
             "frames": [1,2],
             "next": "jump",
-            "frequency": 5
+            "frequency": 1
         },
         "die": {
             "frames": [3],
             "next": "die",
-            "frequency": 5
+            "frequency": 1
         }
     }
 }
