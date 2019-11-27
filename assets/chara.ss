@@ -9,12 +9,17 @@
 
     "animations" : {
 	"stand": {
-            "frames": [1],
+            "frames": [0],
             "next": "stand",
             "frequency": 1
         },
         "walk": {
             "frames": [1,0,2],
+            "next": "walk",
+            "frequency": 1
+        },
+	"leftwalk": {
+            "frames": [6,7],
             "next": "walk",
             "frequency": 1
         },
