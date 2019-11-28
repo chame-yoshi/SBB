@@ -11,27 +11,27 @@
 	"stand": {
             "frames": [0],
             "next": "stand",
-            "frequency": 1
+            "frequency": 4
         },
         "walk": {
             "frames": [1,0,2],
             "next": "walk",
-            "frequency": 1
+            "frequency": 4
         },
 	"leftwalk": {
             "frames": [6,7],
             "next": "leftwalk",
-            "frequency": 1
+            "frequency": 4
         },
         "jump": {
             "frames": [1,2],
             "next": "jump",
-            "frequency": 1
+            "frequency": 4
         },
         "die": {
             "frames": [3],
             "next": "die",
-            "frequency": 1
+            "frequency": 4
         }
     }
 }
