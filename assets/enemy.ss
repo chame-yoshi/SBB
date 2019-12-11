@@ -11,12 +11,12 @@
 		"stand": {
 			"frames": [0],
 			"next": "stand",
-			"frequency": 7
+			"frequency": 4
 			},
 		"fly": {
 			"frames": [1,2,3,2,1],
 			"next": "fly",
-			"frequency": 7
+			"frequency": 4
 			}
 		}
 }
