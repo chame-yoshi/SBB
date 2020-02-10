@@ -11,7 +11,7 @@
 		"stand": {
 			"frames": [0,1,2,3,4],
 			"next": "stand",
-			"frequency": 5
+			"frequency": 8
 			}
 		}
 }
